@@ -1,3 +1,7 @@
+# Forked 13NOV24 by @absolemlee for modification into an instance adapted to on-island boricua barrios. Hopefully this can bolster grassroots economies that can sustain a thoroughly imbalanced situation. 
+
+Thank you! 
+
 # Osclass
 
 ### All you need to easily create your own classifieds website
